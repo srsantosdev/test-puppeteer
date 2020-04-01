@@ -1,2 +1,2 @@
-console.info("Starting search...");
+console.log("Starting search...");
 require("./script")();
